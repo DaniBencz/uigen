@@ -18,6 +18,17 @@
           }
         ]
       }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Read",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node hooks/hello.js"
+          }
+        ]
+      }
     ]
   }
 }
