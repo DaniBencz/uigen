@@ -5,7 +5,9 @@
       "mcp__playwright__browser_type",
       "mcp__playwright__browser_wait_for",
       "mcp__playwright__browser_take_screenshot",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Skill(claude-api)",
+      "Skill(claude-api:*)"
     ]
   },
   "hooks": {
